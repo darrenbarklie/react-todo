@@ -26,3 +26,18 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Todo-App {
+  display: inline-block;
+  padding-top: 20px;
+  text-align: left;
+}
+input {
+  font-size: 20px;
+}
+ul {
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
