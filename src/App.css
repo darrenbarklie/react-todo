@@ -41,3 +41,10 @@ ul {
 li {
   list-style-type: none;
 }
+.error {
+  display: block;
+  padding: 5px;
+  color: red;
+  background-color: rgba(255,0,0,0.2);
+  font-weight: bold;
+}
