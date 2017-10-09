@@ -51,10 +51,9 @@ li {
 li .remove {
   visibility: hidden;
 }
-.remove a {
-  color: red;
-  text-decoration: none;
-}
 li:hover .remove {
   visibility: visible;
+}
+.footer a {
+  padding: 0.25rem;
 }
