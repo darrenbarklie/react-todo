@@ -48,3 +48,13 @@ li {
   background-color: rgba(255,0,0,0.2);
   font-weight: bold;
 }
+li .remove {
+  visibility: hidden;
+}
+.remove a {
+  color: red;
+  text-decoration: none;
+}
+li:hover .remove {
+  visibility: visible;
+}
