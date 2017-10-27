@@ -13,7 +13,7 @@
     {
       "id": 3,
       "name": "Connect to Server",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 4,
@@ -28,17 +28,17 @@
     {
       "id": 53847,
       "name": "New Todo",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 82119,
       "name": "Another Todo",
-      "isComplete": false
+      "isComplete": true
     },
     {
       "id": 53887,
       "name": "One more test",
-      "isComplete": false
+      "isComplete": true
     }
   ]
 }
